@@ -1,0 +1,16 @@
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\Diagger.vbproj.GenerateResource.Cache
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\Diagger.vbproj.CoreCompileInputs.cache
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\Diagger.vbprojResolveAssemblyReference.cache
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ATAC-Diagger.exe.config
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ATAC-Diagger.exe.manifest
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ATAC-Diagger.application
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ATAC-Diagger.exe
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ATAC-Diagger.pdb
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ATAC-Diagger.xml
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ATAC.diaggerMain.resources
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ATAC.Resources.resources
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ATAC-Diagger.exe.manifest
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ATAC-Diagger.application
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ATAC-Diagger.exe
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ATAC-Diagger.xml
+C:\Users\sseal\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ATAC-Diagger.pdb
